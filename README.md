@@ -1,8 +1,8 @@
 # Awesome Rust [![build badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/)
 
-A curated list of Rust code and resources.
+Rust代码和资源的精选列表。
 
-If you want to contribute, please read [this](CONTRIBUTING.md).
+如果你想贡献，请阅读 [this](CONTRIBUTING.md) 。
 
 ## Table of contents
 
@@ -114,7 +114,7 @@ If you want to contribute, please read [this](CONTRIBUTING.md).
 
 ## Applications
 
-See also [Rust — Production](https://www.rust-lang.org/production) organizations running Rust in production.
+另见 [Rust — Production](https://www.rust-lang.org/production) 在生产中运行Rust的组织。
 
 * [alacritty](https://github.com/alacritty/alacritty)  — 一种跨平台的GPU增强型终端仿真器 
 * [Arti](https://gitlab.torproject.org/tpo/core/arti)  — Tor的一种实现，在Rust中。(到目前为止，它不是一个非常完整的客户端。但是请注意这个空间!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
@@ -235,7 +235,7 @@ See also [Rust — Production](https://www.rust-lang.org/production) organizatio
 * [WooriDB](https://github.com/naomijub/wooridb)  — 受Crux和Datomic启发的通用时间序列数据库。 
 ### Emulators
 
-See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulator).
+另见 [crates matching keyword 'emulator'](https://crates.io/keywords/emulator) 。
 
 * CHIP-8
   * [ColinEberhardt/wasm-rust-chip8](https://github.com/ColinEberhardt/wasm-rust-chip8)  — 用铁锈编写的WebAssembly CHIP-8仿真器 
@@ -267,7 +267,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 
 ### Games
 
-See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston).
+另见 [Games Made With Piston](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston) 。
 
 * [citybound](https://github.com/citybound/citybound)  — 你应得的城市模拟 
 * [cristicbz/rust-doom](https://github.com/cristicbz/rust-doom)  — Doom的渲染器可能会发展成为可玩游戏 
@@ -313,7 +313,7 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 * [vectordotdev/vector](https://github.com/vectordotdev/vector)  — 高性能、日志、度量和事件路由器。 
 ### Operating systems
 
-See also [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison).
+另见 [A comparison of operating systems written in Rust](https://github.com/flosse/rust-os-comparison) .
 * [0x59616e/SteinsOS](https://github.com/0x59616e/SteinsOS)  — -用于armv8-a架构的操作系统。 
 * [Andy-Python-Programmer/aero](https://github.com/Andy-Python-Programmer/aero)  — 遵循单片内核设计的现代类unix操作系统。 
 * [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox)  — * [Powersgang/rust_os](https://github.com/thepowersgang/rust_os)- 
@@ -593,7 +593,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Embedded
 
-[Rust Embedded](https://rust-embedded.org/) focuses on improving the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms. See [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) for a curated, and more extended list of embedded Rust resources.
+ [Rust Embedded](https://rust-embedded.org/) focuses on improving the end-to-end experience of using Rust in resource-constrained environments and non-traditional platforms. See [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) 用于精选的，更扩展的嵌入式Rust资源列表。
 
 * Arduino
   * [avr-rust/ruduino](https://github.com/avr-rust/ruduino)  — Arduino Uno的可重用组件。 
@@ -608,7 +608,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
   * [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal)  — nRF设备系列的Rust HAL 
 ### FFI
 
-See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html), [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) (a collection of examples of using code written in Rust from other languages) and [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples).
+另见 [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html), [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) (a collection of examples of using code written in Rust from other languages) and [FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples) 。
 
 * C
   * [mozilla/cbindgen](https://github.com/mozilla/cbindgen)  — 从Rust源文件生成C头文件。用于WebRender的壁虎 
@@ -659,7 +659,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 * [rustfmt](https://github.com/rust-lang/rustfmt)  — 由Rust团队维护并包含在货物中的Rust代码格式化程序 
 ### IDEs
 
-See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://www.rust-lang.org/tools).
+另见 [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://www.rust-lang.org/tools) 。
 
   * [Atom](https://github.blog/2022-06-08-sunsetting-atom/)
     * [rust-lang/atom-ide-rust](https://github.com/rust-lang/atom-ide-rust)  — Rust IDE支持Atom，由Rust语言服务器 (RLS) 提供支持 
@@ -768,7 +768,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 
 See [[Machine learning](https://crates.io/keywords/machine-learning)]
 
-See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f) and [Are we learning yet?](https://www.arewelearningyet.com).
+另见 [About Rust’s Machine Learning Community](https://medium.com/@autumn_eng/about-rust-s-machine-learning-community-4cda5ec8a790#.hvkp56j3f) and [Are we learning yet?](https://www.arewelearningyet.com) 。
 
 * [autumnai/leaf](https://github.com/autumnai/leaf)  — 开放机器智能框架 ..放弃的项目。最新的叉子是 [spearow/juice]( https://github.com/spearow/juice)。 
 * [coreylowman/dfdx](https://github.com/coreylowman/dfdx)  — CUDA加速了机器学习框架，它利用了Rust的许多独特功能。! [Crates.io](https://img.shields.io/crates/v/dfdx)
@@ -1247,7 +1247,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [myrrlyn/tap](https://github.com/myrrlyn/tap)  — 后缀-位置管道行为 
 ### Game development
 
-See also [Are we game yet?](https://arewegameyet.rs)
+另见 [Are we game yet?](https://arewegameyet.rs) 
 * Allegro
   * [SiegeLord/RustAllegro](https://github.com/SiegeLord/RustAllegro)  — [快板5](https://liballeg.org/) 绑定 
 * [Awesome Quads](https://github.com/ozkriff/awesome-quads)  — 到miniquad/macroquad相关代码和资源的链接的精选列表 
@@ -1263,7 +1263,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [legion](https://github.com/amethyst/legion)  — 功能丰富的高性能ECS库，具有最少的样板 [![build badge](https://github.com/amethyst/legion/workflows/CI/badge.svg?branch=master)](https://github.com/amethyst/legion/actions)
 * Game Engines
   * [Bevy](https://github.com/bevyengine/bevy)  — 是Rust中内置的令人耳目一新的简单数据驱动游戏引擎。- [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy)
-[![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
+ [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy) 
   * [Fyrox](https://fyrox.rs/)  — 生锈游戏引擎3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
   * [ggez](https://github.com/ggez/ggez)  — 一个轻量级的游戏框架，用于制作摩擦最小的2D游戏- [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)
   * [Kiss3d](http://kiss3d.org)  — 一个保持简单，用铁锈编写的愚蠢的3d图形引擎 [![Crates.io](https://img.shields.io/crates/d/kiss3d.svg)](https://crates.io/crates/kiss3d)
@@ -1589,7 +1589,7 @@ https://github.com/BinChengZhao/delay-timer/actions)
 * [unicorn-rs/unicorn-rs](https://github.com/unicorn-rs/unicorn-rs)  — 独角兽CPU仿真器的Rust绑定 
 ### Web programming
 
-See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison).
+另见 [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework comparison](https://github.com/flosse/rust-web-framework-comparison) 。
 
 * Client-side / WASM
   * [cargo-web](https://crates.io/crates/cargo-web)  — 客户端Web的货物子命令 
@@ -1649,10 +1649,10 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
   * [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) [[sozu](https://crates.io/crates/sozu)]  — 一个HTTP反向代理。 [![CI](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sozu-proxy/sozu/actions/workflows/ci.yml)
 * Static Site Generators
   * [cobalt-org/cobalt.rs](https://github.com/cobalt-org/cobalt.rs)  — 用铁锈书写的静态现场发生器 [![Build Status](https://dev.azure.com/cobalt-org/cobalt-org/_apis/build/status/cobalt.rs?branchName=master)](https://dev.azure.com/cobalt-org/cobalt-org/_build?definitionId=2)
-  * [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) [[mdblog](https://crates.io/crates/mdblog)]  — 来自markdown文件的静态站点生成器。 
-  * [getzola/zola](https://github.com/getzola/zola) [[zola](https://www.getzola.org/)]  — 内置所有内容的自以为是的静态站点生成器。 [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build)
+  * [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) [[mdblog](https://crates.io/crates/mdblog)]  — 来自markdown文件的静态站点生成器。An opinionated static site generator with everything built-in. 
+  * [getzola/zola](https://github.com/getzola/zola) [[zola](https://www.getzola.org/)]  — 一个固执己见的静态网站生成器与内置的一切。 [![Build Status](https://dev.azure.com/getzola/zola/_apis/build/status/getzola.zola?branchName=master)](https://dev.azure.com/getzola/zola/_build)
   * [grego/blades](https://github.com/grego/blades) [[blades](https://getblades.org/)]  — 炽热的快速死亡简单静态站点发生器。 
-  * [leven-the-blog/leven](https://github.com/leven-the-blog/leven) [[leven](https://crates.io/crates/leven)]  — 一个简单的、并行化的博客生成器。 
+  * [leven-the-blog/leven](https://github.com/leven-the-blog/leven) [[leven](https://crates.io/crates/leven)]  — 一个简单的、并行化的博客生成器。An opinionated static site generator with everything built-in. 
 * [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
   * [housleyjk/ws-rs](https://github.com/housleyjk/ws-rs)  — 轻量级、事件驱动的防锈网络套接字 
   * [rust-websocket](https://github.com/websockets-rs/rust-websocket)  — 用于处理WebSocket连接 (客户端和服务器) 的框架 
@@ -1721,4 +1721,4 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 * [RustViz](https://github.com/rustviz/rustviz)  — 从简单的Rust程序生成可视化效果，以帮助用户更好地理解Rust寿命和借用机制。 
 ## License
 
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+ [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) 
