@@ -222,6 +222,7 @@ Rust代码和资源的精选列表。
 * [sigma-rust](https://github.com/ergoplatform/sigma-rust)  — ErgoTree解释器和钱包相关功能的Rust实现 
 * [Solana](https://github.com/solana-labs/solana)  — 使用历史证明的令人难以置信的快速、高度可扩展的区块链。 
 * [Substrate](https://github.com/paritytech/substrate)  — 用Rust编写的通用模块化区块链模板 
+* [Sui](https://github.com/MystenLabs/sui)  — 具有高吞吐量、低延迟的下一代智能合约平台，以及由Move编程语言提供支持的面向资产的编程模型。 
 * [svm-rs](https://github.com/alloy-rs/svm-rs)  — Solidity-编译器版本管理器 
 * [tendermint-rs](https://github.com/informalsystems/tendermint-rs)  — Tendermint区块链数据结构和客户端的Rust实现 
 * [wagyu](https://github.com/howardwu/wagyu) [[wagyu](https://crates.io/crates/wagyu)]  — 用于生成加密货币钱包的Rust库 
@@ -325,6 +326,7 @@ Rust代码和资源的精选列表。
 ### Graphics
   
 
+* [dps/rust-raytracer](https://github.com/dps/rust-raytracer)  — 一个非常简单的raytracer的实现，基于一个周末的光线跟踪，由Peter Shirley在Rust。 
 * [ivanceras/svgbob](https://github.com/ivanceras/svgbob)  — 将ASCII图转换为SVG图形 
 * [Limeth/euclider](https://github.com/Limeth/euclider)  — 一种实时4D中央处理器射线跟踪器 
 * [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg)  — 一个SVG渲染库。 
@@ -556,6 +558,7 @@ Rust代码和资源的精选列表。
   
 
 * [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) [[yaydl](https://crates.io/crates/yaydl)]  — 一个简单的视频下载器 
+* [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)  — 使用陀螺仪数据的视频稳定应用 
 * [harlanc/xiu](https://github.com/harlanc/xiu)  — 由纯rust (rtmp/httpflv/hls/relay) 提供的功能强大且安全的实时服务器。 [![crates.io](https://img.shields.io/crates/v/xiu.svg)](https://crates.io/crates/xiu)
 * [vidmerger](https://github.com/TGotwig/vidmerger)  — 通过CLI合并视频和音频文件 
 * [xiph/rav1e](https://github.com/xiph/rav1e)  — 最快和最安全的AV1编码器。 
@@ -919,6 +922,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
   
 
 * [autumnai/leaf](https://github.com/autumnai/leaf)  — 开放机器智能框架 ..放弃的项目。最新的叉子是 [spearow/juice]( https://github.com/spearow/juice)。 
+* [burn-rs/burn](https://github.com/burn-rs/burn)  — Rust中灵活而全面的深度学习框架。 
 * [coreylowman/dfdx](https://github.com/coreylowman/dfdx)  — CUDA加速了机器学习框架，它利用了Rust的许多独特功能。! [Crates.io](https://img.shields.io/crates/v/dfdx)
 * [huggingface/candle](https://github.com/huggingface/candle)  — [ [candle-core](https://crates.io/crates/candle-core)]- a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
 * [huggingface/tokenizers](https://github.com/huggingface/tokenizers)  — 用Rust (原始实现) 编写的带有Python绑定的现代NLP管道的拥抱Face的标记器。 [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
@@ -993,10 +997,10 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 ### Automotive
   
 
+* [idletea/tokio-socketcan](https://github.com/idletea/tokio-socketcan) [[tokio-socketcan](https://crates.io/crates/tokio-socketcan)]  — 基于SocketCAN板条箱的Linux socketcan支持tokio 
 * [marcelbuesing/can-dbc](https://github.com/marcelbuesing/can-dbc) [[can-dbc](https://crates.io/crates/can-dbc)]  — DBC格式的解析器 
 * [marcelbuesing/tokio-socketcan-bcm](https://github.com/marcelbuesing/tokio-socketcan-bcm) [[tokio-socketcan-bcm](https://crates.io/crates/tokio-socketcan-bcm)]  — Linux SocketCAN BCM对tokio的支持 
 * [mbr/socketcan](https://github.com/socketcan-rs/socketcan-rs) [[socketcan](https://crates.io/crates/socketcan)]  — Linux SocketCAN库 
-* [oefd/tokio-socketcan](https://github.com/oefd/tokio-socketcan) [[tokio-socketcan](https://crates.io/crates/tokio-socketcan)]  — 基于SocketCAN板条箱的Linux socketcan支持tokio 
 * [Sensirion/lin-bus](https://github.com/Sensirion/lin-bus-rs) [[lin-bus](https://crates.io/crates/lin-bus)]  — LIN总线驾驶员特征及协议实现 [![build badge](https://circleci.com/gh/Sensirion/lin-bus-rs.svg?style=svg)](https://app.circleci.com/pipelines/github/Sensirion/lin-bus-rs)
   
 
@@ -1248,7 +1252,7 @@ See [[Machine learning](https://crates.io/keywords/machine-learning)]
 * NoSQL [[nosql](https://crates.io/keywords/nosql)]
   
 
-  * [ArangoDB](https://www.arangodb.com)
+  * [ArangoDB](https://arangodb.com)
     * [Aragog](https://gitlab.com/qonfucius/aragog) [[aragog](https://crates.io/crates/aragog)]  — 轻量级ArangoDB对象文档、关系图映射器 [![pipeline status](https://gitlab.com/qonfucius/aragog/badges/master/pipeline.svg)](https://gitlab.com/qonfucius/aragog/-/commits/master)
     * [Arangors](https://github.com/fMeow/arangors) [[arangors](https://crates.io/crates/arangors)]  — 用于Rust的ArangoDB驱动程序 
   * [Cassandra](https://cassandra.apache.org/_/index.html)  — [[cassandra](https:// crates.io/keywords/cassandra), [cql](https:// crates.io/keywords/cql)] 
