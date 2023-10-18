@@ -485,6 +485,7 @@ Rust代码和资源的精选列表。
 * [vamolessa/verco](https://github.com/vamolessa/verco) vamolessa/verco [[verco](https://crates.io/crates/verco)] -专注于键盘快捷键的简单Git/Hg tui客户端
 * [vaultwarden](https://github.com/dani-garcia/vaultwarden#readme) vaultwarden [![构建](https://github.com/dani-garcia/vaultwarden/操作/工作流/构建.yml/徽章.svg)](https://github.com/dani-garcia/vaultwarden/操作/工作流/构建.yml) -用Rust编写的Bitwarden服务器API的替代实现
 * [warpdotdev/Warp](https://github.com/warpdotdev/Warp) warpdotdev/Warp : heavy_dollar_sign:-Warp是一种基于Rust的快速现代GPU加速终端，旨在使您和您的团队提高工作效率。
+* [wrestic](https://github.com/alvaro17f/wrestic) wrestic —  在rust中构建的restic周围的包装
 * [yaa110/cb](https://github.com/yaa110/cb) yaa110/cb — 用于管理剪贴板的命令行界面
 
 ### 视频
@@ -1672,7 +1673,7 @@ Rust代码和资源的精选列表。
 * [unicorn-rs/unicorn-rs](https://github.com/unicorn-rs/unicorn-rs) 独角兽-rs/独角兽-rs — 独角兽CPU仿真器的Rust绑定
 
 ### Web编程
-另请参阅 [we web？](https://www.arewewebyet.org) 和 [Rust web framework比较](https://github.com/flosse/rust-web-framework-比较)。
+另请参阅 [我们是web吗？](https://www.arewewebyet.org) 和 [Rust web framework比较](https://github.com/flosse/rust-web-framework-comparison)。
 
 * 客户端/WASM
   * [cargo-web](https://crates.io/crates/cargo-web) 货舱-web — 客户端Web的货物子命令
