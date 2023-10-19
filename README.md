@@ -45,7 +45,10 @@ Rust代码和资源的精选列表。
   * [测试](#测试)
   * [换位](#换位)
 - [图书馆](#图书馆)
-  * [人工智能](#人工智能)       [Genetic algorithms](#genetic-algorithms)     + [Machine learning](#machine-learning)     + [OpenAI](#openai)
+  * [人工智能](#人工智能)
+    + [遗传算法](#遗传算法)
+    + [机器学习](#机器学习)
+    + [OpenAI](#OpenAI)
   * [天文学](#天文学)
   * [异步](#异步)
   * [音频和音乐](#音频和音乐)
@@ -1745,7 +1748,7 @@ Rust代码和资源的精选列表。
   * [vityafx/urlshortener-rs](https://github.com/vityafx/urlshortener-rs) — 一个非常简单的用于Rust的urlshortener库。[![CI](https://github.com/vityafx/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/vityafx/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
 
 ## 登记处
-注册表允许您将Rust库发布为crate包，以公开和私下与其他人共享。
+注册表允许您将Rust库作为板条箱程序包发布，并与其他人公开和私下共享。
 
 * [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/product/formats/cargo-registry) — 完全托管的软件包管理SaaS，对公共和私人货物/防锈注册中心 (以及许多其他注册中心) 具有一流的支持。有一个慷慨的免费层，也是完全免费的开源。
 * [Crates](https://crates.io) — 铁锈/货物的官方公共登记处。
