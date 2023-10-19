@@ -44,7 +44,7 @@ Rust代码和资源的精选列表。
   * [静态分析](#静态分析)
   * [测试](#测试)
   * [换位](#换位)
-- [图书馆](#图书馆)
+- [库](#库)
   * [人工智能](#人工智能)
     + [遗传算法](#遗传算法)
     + [机器学习](#机器学习)
@@ -109,7 +109,7 @@ Rust代码和资源的精选列表。
 <!-- tocstop -->
 
 ## 应用
-另请参见[Rust — Production](https://www.rust-lang.org/production)在生产中运行生锈的组织。
+另请参见[Rust — Production](https://www.rust-lang.org/production)在生产中运行Rust的组织。
 
 * [alacritty](https://github.com/alacritty/alacritty) — 一种跨平台的GPU增强型终端仿真器
 * [Arti](https://gitlab.torproject.org/tpo/core/arti) — 在Rust中实现Tor。(到目前为止，它不是一个非常完整的客户端，但请注意这个空间!)[![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
@@ -299,7 +299,7 @@ Rust代码和资源的精选列表。
 * [RazrFalcon/resvg](https://github.com/RazrFalcon/resvg) — 一个SVG渲染库。
 * [rodrigorc/papercraft](https://github.com/rodrigorc/papercraft) - 一个工具来解开3D模型，并用剪刀和胶水在纸上创建它们。
 * [rustq/vue-skia](https://github.com/rustq/vue-skia) — 基于Skia的2d图形vue渲染库。它基于Rust来实现软件光栅化来执行渲染。
-* [turnage/valora](https://crates.io/crates/valora) — 生成美术图书馆![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
+* [turnage/valora](https://crates.io/crates/valora) — 生成美术库![Rust](https://github.com/turnage/valora/workflows/Rust/badge.svg?branch=master)
 * [Twinklebear/tray_rust](https://github.com/Twinklebear/tray_rust) — 射线示踪剂
 
 ### 图像处理
@@ -309,15 +309,15 @@ Rust代码和资源的精选列表。
 
 ### 工业自动化
 
-* [locka99/opcua](https://github.com/locka99/opcua) — 一个纯粹的铁锈[OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/)图书馆。
-* [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) — A[tokio](https://tokio.rs)-基于[modbus](https://modbus.org)图书馆。
+* [locka99/opcua](https://github.com/locka99/opcua) — 一个纯粹的铁锈[OPC UA](https://opcfoundation.org/about/opc-technologies/opc-ua/)库。
+* [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) — A[tokio](https://tokio.rs)-基于[modbus](https://modbus.org)库。
 
 ### 可观察性
 
 * [avito-tech/bioyino](https://github.com/avito-tech/bioyino) — 高性能可扩展StatsD兼容服务器
 * [OpenTelemetry](https://crates.io/crates/opentelemetry) — OpenTelemetry提供一组api、库、代理和收集器服务，用于从应用程序捕获分布式跟踪和指标。您可以使用Prometheus、Jaeger和其他可观察性工具来分析它们。[![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/workflows/CI/badge.svg?branch=master)](https://github.com/open-telemetry/opentelemetry-rust/actions?query=workflow%3ACI+branch%3Amaster)
 * [Quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - 云原生和高成本效益的日志管理搜索引擎。[![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
-* [Scaphandre](https://github.com/hubblo-org/scaphandre) - 功耗监控代理，用于跟踪主机和每个服务的功耗，并能够设计系统和应用程序以实现更大的可持续性。设计适合任何监控工具链 (已经支持普罗米修斯，warp10，黎曼...)。
+* [Scaphandre](https://github.com/hubblo-org/scaphandre) - 功耗监控代理，用于跟踪主机和每个服务的功耗，并能够设计系统和应用程序以实现更大的可持续性。设计适合任何监控工具链 (已经支持prometheus，warp10，riemann...)。
 * [vectordotdev/vector](https://github.com/vectordotdev/vector) — 高性能、日志、度量和事件路由器。
 
 ### 操作系统
@@ -633,7 +633,7 @@ Rust代码和资源的精选列表。
   * [nrf-rs/nrf-hal](https://github.com/nrf-rs/nrf-hal) — nRF设备系列的Rust HAL
 
 ### FFI
-另请参见[Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html),[The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/)(使用其他语言用Rust编写的代码的示例的集合) 和[FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples)。
+另请参见[Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html),[The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/)(使用其他语言用Rust编写的代码的示例集合) 和[FFI examples written in Rust](https://github.com/alexcrichton/rust-ffi-examples)。
 
 * C
   * [mozilla/cbindgen](https://github.com/mozilla/cbindgen) — 从Rust源文件生成C头文件。用于WebRender的壁虎
@@ -757,7 +757,7 @@ Rust代码和资源的精选列表。
 * 框架和Runners
   * [AlKass/polish](https://github.com/AlKass/polish) — 迷你测试/测试驱动框架[![Crates Package Status](https://img.shields.io/crates/v/polish.svg)](https://crates.io/crates/polish)
   * [cargo-dinghy](https://crates.io/crates/cargo-dinghy/) - 一种货物扩展，可简化智能手机和其他小型处理器设备上的程序库测试和工作台。
-  * [cucumber](https://crates.io/crates/cucumber) [![Latest Version](https://img.shields.io/crates/v/cucumber.svg)](https://crates.io/crates/cucumber)-Rust的Cucumber测试框架的实现。完全原生，没有外部测试运行器或依赖项。[![Build Status](https://github.com/cucumber-rs/cucumber/workflows/CI/badge.svg?branch=master)](https://github.com/cucumber-rs/cucumber)
+  * [cucumber](https://crates.io/crates/cucumber) [![Latest Version](https://img.shields.io/crates/v/cucumber.svg)](https://crates.io/crates/cucumber)-黄瓜铁锈测试框架的实现。完全原生，没有外部测试运行程序或依赖项。[![Build Status](https://github.com/cucumber-rs/cucumber/workflows/CI/badge.svg?branch=master)](https://github.com/cucumber-rs/cucumber)
   * [d-e-s-o/test-log](https://github.com/d-e-s-o/test-log) [[test-log](https://crates.io/crates/test-log)]-替换 '#[test]` attribute that initializes logging and/or tracing infrastructure before running tests. [![GitHub Workflow Status](https://github.com/d-e-s-o/test-log/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/d-e-s-o/test-log/操作/工作流/test.yml)
   * [demonstrate](https://crates.io/crates/demonstrate) — 声明式测试框架[![Build Status](https://github.com/aubaugh/demonstrate/workflows/Continuous%20Integration/badge.svg?branch=master)](https://github.com/aubaugh/demonstrate)
   * [rstest](https://crates.io/crates/rstest) — 基于夹具的Rust测试框架[![Build Status](https://github.com/la10736/rstest/workflows/Test/badge.svg?branch=master)](https://github.com/la10736/rstest/actions)
@@ -785,7 +785,7 @@ Rust代码和资源的精选列表。
 * [immunant/c2rust](https://github.com/immunant/c2rust) — C到锈转换器和交叉检查器建立在Clang/LLVM之上。
 * [jameysharp/corrode](https://github.com/jameysharp/corrode) — 用Haskell编写的C到Rust翻译器。
 
-## 图书馆
+## 库
 
 * [perf-monitor-rs](https://github.com/larksuite/perf-monitor-rs) — 旨在作为应用程序监视其性能的基础的工具包。[![crates.io](https://img.shields.io/crates/v/perf_monitor.svg)](https://crates.io/crates/perf_monitor)
 
@@ -1292,7 +1292,7 @@ Rust代码和资源的精选列表。
   * [pop-os/dbus-udisks2](https://github.com/pop-os/dbus-udisks2) [[dbus-udisks2](https://crates.io/crates/dbus-udisks2)] - UDisks2 DBus API
   * [pop-os/sys-mount](https://github.com/pop-os/sys-mount) [[sys-mount](https://crates.io/crates/sys-mount)]-“mount”/“umount2” 系统调用的高级抽象。
   * [vitiral/path_abs](https://github.com/vitiral/path_abs) [[path_abs](https://crates.io/crates/path_abs)]-绝对可序列化路径类型和关联方法。
-  * [webdesus/fs_extra](https://github.com/webdesus/fs_extra) — 扩大机会标准图书馆标准::fs和标准::io
+  * [webdesus/fs_extra](https://github.com/webdesus/fs_extra) — 扩大机会标准库标准::fs和标准::io
 * 临时文件
   * [Stebalien/tempfile](https://github.com/Stebalien/tempfile) — 临时文件库
   * [Stebalien/xattr](https://github.com/Stebalien/xattr) [[xattr](https://crates.io/crates/xattr)]-列出并操作unix扩展文件属性
@@ -1300,7 +1300,7 @@ Rust代码和资源的精选列表。
 
 ### 金融
 
-* [avhz/RustQuant](https://github.com/avhz/RustQuant) [[RustQuant](https://crates.io/crates/RustQuant)]-一个定量金融图书馆。![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
+* [avhz/RustQuant](https://github.com/avhz/RustQuant) [[RustQuant](https://crates.io/crates/RustQuant)]-一个定量金融库。![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/avhz/RustQuant/build.yml)
 * [d-e-s-o/apca](https://github.com/d-e-s-o/apca) [[apca](https://crates.io/crates/apca)]-对[Alpaca API](https://alpaca.markets/)对于股票交易和更多。![GitHub Workflow Status](https://github.com/d-e-s-o/apca/actions/workflows/test.yml/badge.svg?branch=main)
 
 ### 函数式编程
@@ -1547,7 +1547,7 @@ Rust代码和资源的精选列表。
 
   * [comex/rust-shlex](https://github.com/comex/rust-shlex) [[shlex](https://crates.io/crates/shlex)]-将字符串拆分为shell单词，如Python的shlex。[![build badge](https://github.com/comex/rust-shlex/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/comex/rust-shlex/actions/workflows/test.yml)
   * [Folyd/robotstxt](https://github.com/Folyd/robotstxt) - Google的robots.txt解析器和匹配器C库的本机Rust端口
-  * [freestrings/jsonpath](https://github.com/freestrings/jsonpath) — [JsonPath](https://goessner.net/articles/JsonPath/)用铁锈写的发动机。Webassembly和Javascript也支持
+  * [freestrings/jsonpath](https://github.com/freestrings/jsonpath) — [JsonPath](https://goessner.net/articles/JsonPath/)发动机写的生锈。Webassembly和Javascript也支持
   * [hmeyer/stl_io](https://crates.io/crates/stl_io) - STL (立体平版) 文件的解析器
   * [kevinmehall/rust-peg](https://github.com/kevinmehall/rust-peg) — 解析表达式语法 (PEG) 解析器生成器
   * [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) — LR(1) 锈蚀解析器生成器
@@ -1748,7 +1748,7 @@ Rust代码和资源的精选列表。
   * [vityafx/urlshortener-rs](https://github.com/vityafx/urlshortener-rs) — 一个非常简单的用于Rust的urlshortener库。[![CI](https://github.com/vityafx/urlshortener-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/vityafx/urlshortener-rs/actions/workflows/ci.yml) [![Crates badge](https://img.shields.io/crates/v/urlshortener.svg)](https://crates.io/crates/urlshortener)
 
 ## 登记处
-注册表允许您将Rust库作为板条箱程序包发布，并与其他人公开和私下共享。
+注册表允许您将Rust库发布为crate包，以公开和私下与其他人共享。
 
 * [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.com/product/formats/cargo-registry) — 完全托管的软件包管理SaaS，对公共和私人货物/防锈注册中心 (以及许多其他注册中心) 具有一流的支持。有一个慷慨的免费层，也是完全免费的开源。
 * [Crates](https://crates.io) — 铁锈/货物的官方公共登记处。
