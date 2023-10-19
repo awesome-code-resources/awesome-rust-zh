@@ -738,14 +738,14 @@ Rust代码和资源的精选列表。
 
 ### 静态分析
 
-[[assert](https://crates.io/keywords/assert),[静态](https:// crates.io/keywords/static)]
+[[assert](https://crates.io/keywords/assert), [static](https://crates.io/keywords/static)]
 
 * [facebookexperimental/MIRAI](https://github.com/facebookexperimental/mirai) — 在Rust的中级中间表示 (MIR) 上操作的抽象解释器[![Continuous Integration](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml/badge.svg)](https://github.com/facebookexperimental/mirai/actions/workflows/rust.yml)
 * [static_assertions](https://crates.io/crates/static_assertions) — 编译时断言，以确保满足不变量
 
 ### 测试
 
-[[test](https://crates.io/keywords/test),[测试](https:// crates.io/关键字/测试)]
+[[test](https://crates.io/keywords/test), [testing](https://crates.io/keywords/testing)]
 
 * 代码覆盖率
   * [tarpaulin](https://crates.io/crates/cargo-tarpaulin) — 为Rust设计的代码覆盖工具
@@ -1012,7 +1012,7 @@ Rust代码和资源的精选列表。
 
 ### 密码学
 
-[[crypto](https://crates.io/keywords/crypto),[密码学](https://crates.io/keywords/密码学)]
+[[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
 
 * [arkworks-rs/circom-compat](https://github.com/arkworks-rs/circom-compat) - Arkworks绑定到Circom的R1CS，用于在Rust中生成Groth16证明和见证。
 * [briansmith/ring](https://github.com/briansmith/ring) — 使用Rust和BoringSSL的密码学原语安全、快速、小加密。
@@ -1092,8 +1092,8 @@ Rust代码和资源的精选列表。
   * [Cassandra](https://cassandra.apache.org/_/index.html) [[cassandra](https:// crates.io/keywords/cassandra), [cql](https:// crates.io/keywords/cql)]
     * [AlexPikalov/cdrs](https://github.com/AlexPikalov/cdrs) [[cdrs](https://crates.io/crates/cdrs)] -用Rust编写的本地客户端
     * [krojew/cdrs-tokio](https://github.com/krojew/cdrs-tokio) [![build badge](https://github.com/krojew/cdrs-tokio/actions/workflows/rust.yml/badge.svg)](https://github.com/krojew/cdrs-tokio/actions)
-      * [[cassandra-protocol](https://crates.io/crates/cassandra-protocol)]-Rust中的Cassandra协议实现
-      * [[cdrs-tokio](https://crates.io/crates/cdrs-tokio)]-用纯Rust编写的生产就绪异步Apache Cassandra驱动程序
+      * [[cassandra-protocol](https://crates.io/crates/cassandra-protocol)] - Cassandra协议在Rust中的实现
+      * [[cdrs-tokio](https://crates.io/crates/cdrs-tokio)] - 用纯Rust编写的生产就绪异步Apache Cassandra驱动程序
     * [Metaswitch/cassandra-rs](https://github.com/Metaswitch/cassandra-rs) —  绑定到DataStax C/C客户端
   * CouchDB [[couchdb](https:// crates.io/keywords/couchdb)]
     * [chill-rs/chill](https://github.com/chill-rs/chill) [[couchdb](https://crates.io/crates/chill)] -CouchDB REST API的Rust客户端
@@ -1163,7 +1163,7 @@ Rust代码和资源的精选列表。
 
 ### 日期和时间
 
-[[date](https://crates.io/keywords/date),[时间](https:// crates.io/关键字/时间)]
+[[date](https://crates.io/keywords/date), [time](https://crates.io/keywords/time)]
 
 * [chronotope/chrono](https://github.com/chronotope/chrono) —
 * [Mnwa/ms](https://github.com/Mnwa/ms) [[ms-converter](https://crates.io/crates/ms-converter)] — it's a library for converting human-like times to milliseconds [![build badge](https://github.com/Mnwa/ms/workflows/build/badge.svg?branch=master)](https://github.com/Mnwa/ms/actions?query=workflow%3Abuild)
@@ -1196,7 +1196,7 @@ Rust代码和资源的精选列表。
 
 ### 电子邮件
 
-[[email](https://crates.io/keywords/email),[imap](https:// crates.io/keywords/imap), [smtp](https:// crates.io/keywords/smtp)]
+[[email](https://crates.io/keywords/email), [imap](https://crates.io/keywords/imap), [smtp](https://crates.io/keywords/smtp)]
 
 * [duesee/imap-codec](https://github.com/duesee/imap-codec) [[imap-codec](https://crates.io/crates/imap-codec)] — Rock-solid and complete codec for IMAP [![Build & Test](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/duesee/imap-codec/actions/workflows/build_and_test.yml)
 * [gsquire/sendgrid-rs](https://github.com/gsquire/sendgrid-rs) — SendGrid API的非官方Rust库
@@ -1352,7 +1352,7 @@ Rust代码和资源的精选列表。
 
 ### 地理空间
 
-[[geo](https://crates.io/keywords/geo),[gis](https:// crates.io/keywords/gis)]
+[[geo](https://crates.io/keywords/geo), [gis](https://crates.io/keywords/gis)]
 
 * [DaveKram/coord_transforms](https://github.com/DaveKram/coord_transforms) [[coord_transforms](https://crates.io/crates/coord_transforms)] — coordinate transformations (2-d, 3-d, and geospatial)
 * [Georust](https://github.com/georust) — 用Rust编写的地理空间工具和库
