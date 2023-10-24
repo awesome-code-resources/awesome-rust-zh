@@ -1,4 +1,6 @@
 # Awesome Rust [![build badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/)
+如果您觉得这个项目对您有帮助，就请点右上角的Star按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
+
 Rust代码和资源的精选列表。
 
 如果你想贡献，请阅读[this](CONTRIBUTING.md)。
@@ -1537,7 +1539,7 @@ Rust代码和资源的精选列表。
 
 ### 模板引擎
 * 车把
-  * [botika/yarte](https://github.com/botika/yarte)-Yarte代表YetAnotherRustTemplateEngine是最快的模板引擎。
+  * [botika/yarte](https://github.com/botika/yarte)-Yarte代表** Y** et** A** nother** 右** ust** T** emplate** E** ngine是最快的模板引擎。
   * [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust)-具有继承，自定义助手支持的Handlebars模板引擎。
 * HTML
   * [djc/askama](https://github.com/djc/askama)-基于Jinja的模板渲染引擎
@@ -1697,7 +1699,7 @@ Rust代码和资源的精选列表。
   * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e)-视频系列由[Carol Nichols](https://github.com/carols10cents)和[Jake Goulding](https://github.com/shepmaster)(已付)
   * [Rust Language Cheat Sheet](https://cheats.rs/)
   * [Rust Tiếng Việt](https://rust-tieng-viet.github.io/)-学习生锈的越南语。
-  * [rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start)-专门回答以下问题的回购协议: “所以，Rust。我该怎么办start？”。初学者只有精心挑选的资源和学习轨迹。
+  * [rust-how-do-i-start](https://github.com/jondot/rust-how-do-i-start)-专门回答以下问题的回购协议: “所以，Rust。我该怎么办_ 开始_ ？”。初学者只有精心挑选的资源和学习轨迹。
   * [rust-learning](https://github.com/ctjhoa/rust-learning)-学习Rust的有用资源的集合
   * [Rustlings](https://github.com/rust-lang/rustlings)-小练习，让你习惯阅读和编写Rust代码
   * [Rusty CS](https://github.com/AbdesamedBendjeddou/Rusty-CS)-计算机科学课程，有助于实践Rust中获得的学术知识
