@@ -1,5 +1,5 @@
 如果您觉得这个[项目](https://github.com/awesome-code-resources/awesome-rust-zh)对您有帮助，就请点右上角的**Star**按钮为它加星星✨✨ 其他TIOBE Top 20编程语言的中文翻译请看[awesome-code-resources](https://github.com/awesome-code-resources/awesome-code-resources)。
-# Awesome Rust[![build badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/)
+# Awesome Rust [![build badge](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml/badge.svg?branch=main)](https://github.com/rust-unofficial/awesome-rust/actions/workflows/rust.yml)[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/rust-unofficial/awesome-rust/)
 
 Rust代码和资源的精选列表。
 
@@ -391,7 +391,7 @@ Rust代码和资源的精选列表。
 * [Kondo](https://github.com/tbillington/kondo)-用于删除软件项目工件和回收磁盘空间的CLI和GUI工具
 * [lotabout/rargs](https://github.com/lotabout/rargs)[[rargs](https://crates.io/crates/rargs)]-支持模式匹配的xargs awk
 * [lotabout/skim](https://github.com/lotabout/skim)-一个模糊的发现者在纯锈
-* [lsd](https://github.com/lsd-rs/lsd)-一个ls有很多漂亮的颜色和Awesome 图标[![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
+* [lsd](https://github.com/lsd-rs/lsd)-一个ls有很多漂亮的颜色和真棒图标[![build](https://github.com/lsd-rs/lsd/workflows/CICD/badge.svg?branch=master)](https://github.com/lsd-rs/lsd/actions)
 * [Luminarys/synapse](https://github.com/Luminarys/synapse)-灵活和快速的BitTorrent守护进程。
 * [m4b/bingrep](https://github.com/m4b/bingrep)-Greps通过各种OSs和架构的二进制文件，并为它们着色。
 * [mdgaziur/findex](https://github.com/mdgaziur/findex)-Findex是用Rust编写的高度可定制的应用程序查找器，并使用GTK3
@@ -1349,7 +1349,7 @@ Rust代码和资源的精选列表。
 * [Flutter](https://flutter.dev/)
   * [cunarist/rinf](https://github.com/cunarist/rinf)-Rust作为您的Flutter后端，Flutter作为您的Rust前端[![Build Test](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml/badge.svg)](https://github.com/cunarist/rinf/actions/workflows/build_test.yaml?query=branch%3Amain)
   * [flutter-rs](https://github.com/flutter-rs/flutter-rs)-在dart & rust中构建flutter桌面应用程序。
-  * [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)-用于Flutter/Dart <-> Rust的高级内存安全绑定生成器
+  * [fzyzcjy/flutter_rust_bridge](https://github.com/fzyzcjy/flutter_rust_bridge)-用于Flutter/Dart &lt;-&gt; Rust的高级内存安全绑定生成器
 * [fschutt/azul](https://github.com/fschutt/azul)-一个免费的，功能性的，面向IMGUI的GUI框架，用于快速开发用Rust编写的桌面应用程序，由Mozilla WebRender渲染引擎支持。
 * [GTK+](https://www.gtk.org/)[[gtk](https://crates.io/keywords/gtk)]
   * [gtk-rs/gtk4-rs](https://github.com/gtk-rs/gtk4-rs)-GTK4结合生锈![CI](https://github.com/gtk-rs/gtk4-rs/workflows/CI/badge.svg)
